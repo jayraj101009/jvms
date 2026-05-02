@@ -9,4 +9,3 @@ ASP.NET MVC web application built with .NET Core.
 - C#
 - ASP.NET MVC
 - SQL Server
-- 
